@@ -1,0 +1,13 @@
+{
+  "name": "html-entities-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "lint": "htmlhint student-code/*.html"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^21.1.0",
+    "htmlhint": "^1.1.4"
+  }
+}
